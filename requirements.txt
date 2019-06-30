@@ -1,4 +1,4 @@
-git+https://github.com/PeterHedley94/pyicloud.git@6e1d1ff3698eaccd841c5c977ffad77421c3f04e
+git+https://github.com/PeterHedley94/pyicloud.git@6e1d1ff3698eaccd841c5c977ffad77421c3f04e#egg=pyicloud
 docopt==0.6.2
 schema==0.6.6
 click==6.7
